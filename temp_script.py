@@ -8,7 +8,7 @@
 #         --TASK_NAME            Individual Task Name
 #         --PROCESS_INSTANCE_ID  Session ID
 # -------------------------------------------------------------------------------------
-import os
+import os #version2
 import pyspark
 import argparse
 #from delta import *
